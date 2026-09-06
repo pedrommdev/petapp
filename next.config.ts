@@ -4,8 +4,8 @@ const csp = [
   "default-src 'self'",
   "img-src 'self' blob: data:",
   "style-src 'self' 'unsafe-inline'",
-  "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://va.vercel-scripts.com",
-  "connect-src 'self' https://vitals.vercel-insights.com https://va.vercel-scripts.com",
+  "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
+  "connect-src 'self'",
   "font-src 'self'",
   "frame-ancestors 'none'",
 ].join("; ");

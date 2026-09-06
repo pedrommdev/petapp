@@ -1,0 +1,25 @@
+{
+  "name": "catapp-infra",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "synth": "cdk synth --strict",
+    "diff": "cdk diff",
+    "deploy": "cdk deploy",
+    "test": "tsx --test test/catapp-hosting-stack.test.ts"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "@aws-cdk/aws-amplify-alpha": "2.268.0-alpha.0",
+    "aws-cdk-lib": "^2.268.0",
+    "constructs": "^10.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "aws-cdk": "2.1140.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5"
+  }
+}
