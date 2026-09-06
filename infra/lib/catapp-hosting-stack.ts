@@ -74,6 +74,9 @@ export class CatAppHostingStack extends cdk.Stack {
 
     this.prodBranch = this.amplifyApp.addBranch("main", {
       stage: "PRODUCTION",
+      environmentVariables: {
+        NEXT_PUBLIC_SITE_URL: `https://main.${this.amplifyApp.defaultDomain}`,
+      },
     });
 
     const requestMetric = new cloudwatch.Metric({
