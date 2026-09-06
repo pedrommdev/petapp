@@ -33,9 +33,11 @@ npx cdk deploy CatAppHostingStack --profile awsdev \
   -c githubToken="$(gh auth token)"
 ```
 
-After the first Amplify URL exists, set `NEXT_PUBLIC_SITE_URL` on the `main` branch (for example `https://main.<appId>.amplifyapp.com`) and push or redeploy so canonical URLs and Open Graph tags match production.
+Production URL (Amplify default until a custom domain is attached):
 
-Custom domain is not attached yet.
+https://main.d2x64sj3jpp665.amplifyapp.com
+
+`NEXT_PUBLIC_SITE_URL` is set on the `main` branch by the CDK stack.
 
 ### Alerts (free at this size)
 
