@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fbf4ea;
+  --cream: #fbf4ea;
+  --surface: #ffffff;
+  --ink: #1c1917;
+  --muted: #57534e;
+  --accent: #c2410c;
+  --accent-hover: #9a3412;
+  --accent-soft: #fadcd6;
+  --accent-deco: #e85d4c;
+  --cat: #3d6b5a;
+  --dog: #3f6f8a;
+  --sand: #e8d9c4;
+  --focus: #1c1917;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-cream: var(--cream);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-deco: var(--accent-deco);
+  --color-cat: var(--cat);
+  --color-dog: var(--dog);
+  --color-sand: var(--sand);
+  --color-focus: var(--focus);
+
+  --font-sans: var(--font-nunito), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-fraunces), ui-serif, Georgia, "Times New Roman",
+    serif;
+
+  --container-content: 70rem;
+
+  --text-display: 2rem;
+  --text-display--line-height: 1.2;
+  --text-display--font-weight: 600;
+}
+
+html {
+  color-scheme: light;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+h1 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+@media (min-width: 48rem) {
+  h1 {
+    font-size: 2.75rem;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skip-link:focus-visible {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  z-index: 100;
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0.5rem 1rem;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+  border-radius: 0.25rem;
+  background: var(--ink);
+  color: var(--background);
+  font-weight: 600;
+  text-decoration: none;
+  outline-color: var(--background);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    transition-delay: 0ms !important;
+    scroll-behavior: auto !important;
+  }
+}

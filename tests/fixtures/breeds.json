@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-06T00:00:00.000Z",
+  "breeds": [
+    {
+      "id": "cat-maine-coon",
+      "slug": "maine-coon",
+      "species": "cat",
+      "name": "Maine Coon",
+      "origin": "United States",
+      "aliases": [
+        "Coon Cat",
+        "Gentle Giant"
+      ],
+      "sizeClass": "large",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "A big, dog-like cat with tufted ears, a plume of a tail, and a friendly, easygoing manner — often called the gentle giant of the cat world. They follow you from room to room.",
+      "description": "Maine Coons are the sociable giants of the cat world: lynx-like ear tufts, a lion's ruff, and a habit of greeting the door as if they were dogs. They tend to follow their people from room to room, chirp rather than yowl, and treat furniture as a landscape to survey. The typical Coon is playful without being frantic, and they keep a kittenish curiosity well into adulthood. They are famously people-oriented without being clingy, which is a rare and useful combination in a cat this large.\n\nLiving with one means planning for size and fur. A weekly thorough brush keeps the long coat from matting, especially around the ruff and trousers; expect seasonal tufts on the sofa anyway. They do well with respectful children and often enjoy a second pet. An apartment can work if you offer vertical space and a daily play session, but they are happiest with room to stretch. They like a puzzle feeder more than a laser they can never catch, and they will sit in any sink that happens to be damp.\n\nThe breed took shape on New England farms, where a hardy, water-resistant coat and a hunter's build were practical, not decorative. Whether sailors or farm winters deserve the credit, the Maine Coon was already a regional favorite before cat shows made it famous. One honest note: like other large breeds, they can be prone to hip issues and a heart condition called HCM; responsible breeding screens for both. Day to day you get a calm roommate who happens to weigh as much as a small dog and insists on helping you type.",
+      "traits": {
+        "energy": 3,
+        "shedding": 4,
+        "trainability": 4,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 3,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/maine-coon/01.jpg",
+          "alt": "Maine Coon cat with a long tabby ruff lying by a window",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/maine-coon/02.jpg",
+          "alt": "Close portrait of a Maine Coon showing ear tufts and green eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-ragdoll",
+        "cat-siamese"
+      ]
+    },
+    {
+      "id": "cat-siamese",
+      "slug": "siamese",
+      "species": "cat",
+      "name": "Siamese",
+      "origin": "Thailand",
+      "aliases": [
+        "Meezer"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 12,
+        "max": 20
+      },
+      "shortDescription": "A sleek, vocal cat with blue almond eyes and dark points — less a quiet roommate than a witty supervisor who narrates the whole day. Expect a running commentary at breakfast.",
+      "description": "The Siamese is a talker: long, lean, and convinced that every closed door is a conversation waiting to happen. Those blue eyes lock on yours while a loud, raspy voice narrates breakfast, the window, and your typing. They bond hard to their people and can be demanding in a funny, theatrical way — not a lap ornament so much as a supervisor. Play is a daily requirement, not a weekend hobby, and they stay athletic well past the kitten years.\n\nLiving with a Siamese means offering height, toys that move, and a person who will answer back. The short coat is a wipe-down, not a grooming career, and shedding stays on the low side. They often do well with respectful children and can share a home with another pet if introductions are patient; many prefer a buddy so they are not alone all day. Apartments suit them if you can play. They will find the paper bag. They will also find your keyboard.\n\nThe breed took shape in Thailand, where pale cats with dark points were already treasured before Western shows named the look we know. Modern Siamese come in several point colors; the classic is the seal-point silhouette with a whip tail and an athletic body. One honest health note: the breed can be prone to dental issues and, in some lines, respiratory or heart concerns, so regular vet care matters. What you get is a social, clever roommate who treats you like their favorite show.",
+      "traits": {
+        "energy": 4,
+        "shedding": 2,
+        "trainability": 4,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/siamese/01.jpg",
+          "alt": "Siamese cat with chocolate points sitting on a sunlit wooden floor",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/siamese/02.jpg",
+          "alt": "Close portrait of a Siamese cat with blue eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-maine-coon",
+        "cat-ragdoll"
+      ]
+    },
+    {
+      "id": "cat-ragdoll",
+      "slug": "ragdoll",
+      "species": "cat",
+      "name": "Ragdoll",
+      "origin": "United States",
+      "aliases": [
+        "Raggy"
+      ],
+      "sizeClass": "large",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 12,
+        "max": 17
+      },
+      "shortDescription": "A plush, blue-eyed lap cat that goes limp in your arms — calm, affectionate, and happiest wherever the household happens to sit down. They would like to melt on your keyboard.",
+      "description": "Ragdolls are famous for melting. Pick one up and many will go limp, which is how the name stuck. They are large, semi-longhaired, and almost dog-like in how they follow a favorite person from sofa to kitchen. The typical Ragdoll is gentle rather than athletic, more likely to drape across a laptop than to ricochet off the curtains. They want company more than they want a job.\n\nLiving with one is mostly about space on the couch and a brush. The coat mats if you ignore it, so a few sessions a week keep the trousers and ruff honest. They are usually patient with children and easy with other pets. Apartments suit them because their energy is modest; a couple of play bursts and a window bird-feeder cover a lot of the day. They are not street-wise. Indoor life with a tall cat tree is the kinder plan. Expect a soft chirp, not a Siamese opera.\n\nThe breed is young, developed in California in the 1960s from a white longhaired cat and her kittens, then standardized for that docile, color-pointed look. They come in pointed patterns with blue eyes as a hallmark. One honest health note: like other large cats they can be prone to HCM, so screening and a sensible weight matter. What you get is a warm, heavy roommate who would like to be in the photo, on your papers, and slightly in the way.",
+      "traits": {
+        "energy": 2,
+        "shedding": 4,
+        "trainability": 3,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 5,
+        "apartmentFriendly": 4,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/ragdoll/01.jpg",
+          "alt": "Ragdoll cat with blue eyes lying on a linen sofa",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/ragdoll/02.jpg",
+          "alt": "Close portrait of a Ragdoll cat on a sofa",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-maine-coon",
+        "cat-siamese"
+      ]
+    },
+    {
+      "id": "dog-german-shepherd",
+      "slug": "german-shepherd",
+      "species": "dog",
+      "name": "German Shepherd",
+      "origin": "Germany",
+      "aliases": [
+        "GSD",
+        "Alsatian"
+      ],
+      "sizeClass": "large",
+      "coat": "double",
+      "lifespanYears": {
+        "min": 9,
+        "max": 13
+      },
+      "shortDescription": "A loyal, work-minded dog with a keen face and a serious daily battery — happiest with a job, training, and people who like to move. They would like a real job, please.",
+      "description": "German Shepherds are partners. They notice everything, attach hard to their people, and would like a task, please — not a weekend hobby, a real daily job. The classic is a black-and-tan double coat, upright ears, and an outline that still reads as working dog even on the sofa. They are intelligent and sensitive. A well-trained Shepherd is a joy; an under-employed one invents security work you did not request.\n\nPlan on serious exercise and training, not a quick stroll around the block. They shed a great deal, in seasons especially, so the brush is not optional. They can be wonderful with children they are raised with, and they may be reserved with strangers. Other pets work when the dog is socialized early. Apartments are a stretch unless you are an athlete with a plan. They want space, scent work, obedience, or a sport. Mental work counts as much as mileage.\n\nThe breed was standardized in Germany at the turn of the twentieth century as a herding and utility dog, then became a fixture of police, military, and family life worldwide. Lines vary from show to working. One honest health note: hips, elbows, and degenerative myelopathy are known concerns; ask about screening and keep them lean. What you get is a brilliant, loyal roommate who would like to learn the household rules and then enforce them with great sincerity.",
+      "traits": {
+        "energy": 5,
+        "shedding": 5,
+        "trainability": 5,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 2,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/german-shepherd/01.jpg",
+          "alt": "German Shepherd standing in a sunlit meadow of wildflowers",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/german-shepherd/02.jpg",
+          "alt": "Close portrait of a German Shepherd with alert ears",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-golden-retriever",
+        "dog-french-bulldog"
+      ]
+    },
+    {
+      "id": "dog-golden-retriever",
+      "slug": "golden-retriever",
+      "species": "dog",
+      "name": "Golden Retriever",
+      "origin": "Scotland",
+      "aliases": [
+        "Golden",
+        "Goldie"
+      ],
+      "sizeClass": "large",
+      "coat": "double",
+      "lifespanYears": {
+        "min": 10,
+        "max": 12
+      },
+      "shortDescription": "A friendly, eager retriever in a cream-gold coat — built for people, water, and the kind of day that includes a walk and a sofa. Glad to see you, and the whole neighborhood.",
+      "description": "Golden Retrievers are famously glad to see you, and also the mail carrier, and also the dog across the street. They were bred to work with people, and it shows: soft mouths, eager eyes, and a habit of leaning against the nearest knee. They are playful well into adulthood and tend to stay mouthy as puppies, which is less charming on a sleeve than on a dummy. The coat is a weatherproof double layer that looks like a commercial and behaves like a shed.\n\nLiving with a Golden means daily walks, a chance to swim or retrieve, and a vacuum you have made peace with. They are typically patient with children and easy with other pets when raised with them. An apartment can work for a calmer adult with enough outings, but they are large, busy dogs who prefer a yard or regular field time. Training is a pleasure because they want to cooperate; keep sessions upbeat. They will eat anything, including things that are not food, so manage the trash.\n\nThe breed was developed in Scotland in the nineteenth century as a gundog for waterfowl, blending retrieving talent with a steady temperament. They remain working dogs as well as family companions. One honest health note: cancers, hip dysplasia, and heart conditions appear in the breed; screening and a lean body help. What you get is a warm, slightly goofy roommate who would like to carry something for you and then nap on your feet.",
+      "traits": {
+        "energy": 4,
+        "shedding": 5,
+        "trainability": 5,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 5,
+        "apartmentFriendly": 3,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/golden-retriever/01.jpg",
+          "alt": "Golden Retriever sitting on a green lawn, looking at the camera",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/golden-retriever/02.jpg",
+          "alt": "Close portrait of a Golden Retriever with a cream-gold coat",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-german-shepherd",
+        "dog-french-bulldog"
+      ]
+    },
+    {
+      "id": "dog-french-bulldog",
+      "slug": "french-bulldog",
+      "species": "dog",
+      "name": "French Bulldog",
+      "origin": "France",
+      "aliases": [
+        "Frenchie",
+        "French Bull"
+      ],
+      "sizeClass": "small",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 10,
+        "max": 12
+      },
+      "shortDescription": "A compact, bat-eared companion with a clown streak — city-sized, people-focused, and happiest on the sofa with short bursts of play. A snoring roommate in a compact square.",
+      "description": "French Bulldogs are portable comedians. The bat ears, compact square body, and solemn-then-silly face make them look like a cartoon that learned to snore. They were bred as companions, and they still want to be where the people are — on the couch, in the kitchen, occasionally in a tote they only half fit. Energy is moderate: a few play bursts, a neighborhood stroll, then a serious nap. They have opinions. They also have a talent for looking betrayed when you leave the room.\n\nThey suit apartments and smaller homes, which is a large part of the appeal. The short coat is easy; shedding is modest. They are usually good with children who treat them as dogs, not toys, and they can live with other pets. They do not tolerate heat well, and they are not hiking partners. Training works if you keep it kind and interesting; stubborn is in the job description. Watch the waistline. A Frenchie with extra weight has a harder time breathing and moving.\n\nThe breed took shape in nineteenth-century France from smaller English bulldogs crossed with local companion dogs, then became a city favorite. The modern face is flatter than those early dogs. One honest health note: as a brachycephalic breed they can struggle with heat, airways, and sometimes spines; choose breeders who screen and keep exercise gentle in warm weather. What you get is a snoring, loyal roommate who would like to share your sandwich and your pillow.",
+      "traits": {
+        "energy": 3,
+        "shedding": 2,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/french-bulldog/01.jpg",
+          "alt": "Fawn French Bulldog sitting on a wooden floor",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/french-bulldog/02.jpg",
+          "alt": "Close portrait of a French Bulldog with bat ears",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-golden-retriever",
+        "dog-german-shepherd"
+      ]
+    }
+  ]
+}
