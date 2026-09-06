@@ -105,6 +105,15 @@ h1 {
   outline-color: var(--background);
 }
 
+.photo-gallery:not(:has(.photo-slide:target)) .photo-dot[data-index="0"],
+.photo-gallery:has(#breed-photo-1:target) .photo-dot[data-index="0"],
+.photo-gallery:has(#breed-photo-2:target) .photo-dot[data-index="1"],
+.photo-gallery:has(#breed-photo-3:target) .photo-dot[data-index="2"],
+.photo-gallery:has(#breed-photo-4:target) .photo-dot[data-index="3"],
+.photo-gallery:has(#breed-photo-5:target) .photo-dot[data-index="4"] {
+  background-color: var(--accent);
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;

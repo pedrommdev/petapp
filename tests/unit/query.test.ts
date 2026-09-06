@@ -1,6 +1,11 @@
 import { describe, expect, it } from "vitest";
 import type { CatalogQuery } from "@/lib/filters";
-import { parseCatalogQuery, serializeCatalogQuery } from "@/lib/query";
+import {
+  catalogHref,
+  isSafeCatalogHref,
+  parseCatalogQuery,
+  serializeCatalogQuery,
+} from "@/lib/query";
 
 describe("parseCatalogQuery", () => {
   it.each([
@@ -117,5 +122,40 @@ describe("serializeCatalogQuery", () => {
     expect(
       parseCatalogQuery(new URLSearchParams(serializeCatalogQuery(original))),
     ).toEqual(original);
+  });
+});
+
+describe("catalogHref", () => {
+  it("returns pathname when the query is empty", () => {
+    expect(catalogHref({})).toBe("/");
+  });
+
+  it("joins a query string", () => {
+    expect(catalogHref({ species: "cat", kids: true })).toBe(
+      "/?species=cat&kids=1",
+    );
+  });
+});
+
+describe("isSafeCatalogHref", () => {
+  it.each([
+    "/",
+    "/?species=cat",
+    "/?q=GSD&species=dog&kids=1",
+    "/?q=hi%20there",
+  ])("allows %s", (value) => {
+    expect(isSafeCatalogHref(value)).toBe(true);
+  });
+
+  it.each([
+    "",
+    "/breeds/siamese",
+    "//evil.example",
+    "/\\evil",
+    "/?q=hi there",
+    "https://example.com/",
+    "/?q=<script>",
+  ])("rejects %s", (value) => {
+    expect(isSafeCatalogHref(value)).toBe(false);
   });
 });

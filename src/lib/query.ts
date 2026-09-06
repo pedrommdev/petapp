@@ -68,18 +68,3 @@ export function persistLastCatalog(href: string): void {
   if (!isSafeCatalogHref(href)) return;
   sessionStorage.setItem("cdr:lastCatalog", href);
 }
-
-const CATALOG_HREF = /^\/(?:\?[A-Za-z0-9._~=&%-]+)?$/;
-
-export function isSafeCatalogHref(value: string): boolean {
-  if (!value) return false;
-  if (/\s/.test(value)) return false;
-  if (value.includes("//") || value.includes("/\\")) return false;
-  if (!CATALOG_HREF.test(value)) return false;
-  try {
-    const url = new URL(value, "https://catapp.local");
-    return url.pathname === "/";
-  } catch {
-    return false;
-  }
-}

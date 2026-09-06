@@ -4,8 +4,8 @@ import { fileURLToPath } from "node:url";
 import { z } from "zod";
 import type { CatalogFile } from "../src/types/breed";
 
-/** Seed era minimum. PR 11 raises this to 40. */
-export const MIN_BREEDS = 8;
+/** Launch-era minimum after the 50-breed catalog. */
+export const MIN_BREEDS = 40;
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const CATALOG_PATH = path.join(ROOT, "data", "breeds.json");
@@ -56,6 +56,8 @@ const breedPhotoSchema = z.object({
   height: z.int().positive(),
   credit: z.string().min(1),
   license: licenseSchema,
+  sourceUrl: z.string().min(1).optional(),
+  licenseUrl: z.string().min(1).optional(),
 });
 
 const lifespanRangeSchema = z

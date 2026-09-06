@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T00:00:00.000Z",
+  "generatedAt": "2026-09-06T12:00:00.000Z",
   "breeds": [
     {
       "id": "cat-maine-coon",
@@ -48,9 +48,9 @@
         }
       ],
       "similarBreedIds": [
-        "cat-ragdoll",
-        "cat-british-shorthair",
-        "cat-bengal"
+        "cat-norwegian-forest",
+        "cat-siberian",
+        "cat-ragdoll"
       ]
     },
     {
@@ -98,9 +98,9 @@
         }
       ],
       "similarBreedIds": [
-        "cat-bengal",
-        "cat-sphynx",
-        "cat-british-shorthair"
+        "cat-oriental-shorthair",
+        "cat-tonkinese",
+        "cat-burmese"
       ]
     },
     {
@@ -148,9 +148,9 @@
         }
       ],
       "similarBreedIds": [
+        "cat-birman",
         "cat-maine-coon",
-        "cat-british-shorthair",
-        "cat-sphynx"
+        "cat-himalayan"
       ]
     },
     {
@@ -199,9 +199,9 @@
         }
       ],
       "similarBreedIds": [
-        "cat-ragdoll",
-        "cat-maine-coon",
-        "cat-siamese"
+        "cat-chartreux",
+        "cat-scottish-fold",
+        "cat-american-shorthair"
       ]
     },
     {
@@ -249,9 +249,9 @@
         }
       ],
       "similarBreedIds": [
-        "cat-siamese",
-        "cat-maine-coon",
-        "cat-sphynx"
+        "cat-egyptian-mau",
+        "cat-abyssinian",
+        "cat-siamese"
       ]
     },
     {
@@ -299,9 +299,9 @@
         }
       ],
       "similarBreedIds": [
-        "cat-siamese",
-        "cat-bengal",
-        "cat-british-shorthair"
+        "cat-devon-rex",
+        "cat-cornish-rex",
+        "cat-burmese"
       ]
     },
     {
@@ -350,9 +350,9 @@
         }
       ],
       "similarBreedIds": [
-        "dog-golden-retriever",
-        "dog-siberian-husky",
-        "dog-beagle"
+        "dog-australian-shepherd",
+        "dog-rottweiler",
+        "dog-border-collie"
       ]
     },
     {
@@ -401,9 +401,9 @@
         }
       ],
       "similarBreedIds": [
-        "dog-german-shepherd",
-        "dog-beagle",
-        "dog-pembroke-welsh-corgi"
+        "dog-labrador-retriever",
+        "dog-poodle",
+        "dog-bernese-mountain-dog"
       ]
     },
     {
@@ -452,9 +452,9 @@
         }
       ],
       "similarBreedIds": [
-        "dog-pembroke-welsh-corgi",
-        "dog-beagle",
-        "dog-golden-retriever"
+        "dog-pug",
+        "dog-boston-terrier",
+        "dog-bulldog"
       ]
     },
     {
@@ -503,9 +503,9 @@
         }
       ],
       "similarBreedIds": [
-        "dog-french-bulldog",
-        "dog-beagle",
-        "dog-golden-retriever"
+        "dog-australian-shepherd",
+        "dog-dachshund",
+        "dog-beagle"
       ]
     },
     {
@@ -554,9 +554,9 @@
         }
       ],
       "similarBreedIds": [
+        "dog-shiba-inu",
         "dog-german-shepherd",
-        "dog-golden-retriever",
-        "dog-beagle"
+        "dog-australian-shepherd"
       ]
     },
     {
@@ -604,9 +604,1917 @@
         }
       ],
       "similarBreedIds": [
+        "dog-dachshund",
+        "dog-labrador-retriever",
+        "dog-pembroke-welsh-corgi"
+      ]
+    },
+    {
+      "id": "cat-abyssinian",
+      "slug": "abyssinian",
+      "species": "cat",
+      "name": "Abyssinian",
+      "origin": "Ethiopia",
+      "aliases": [
+        "Aby"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "A ticked, athletic cat with big ears and a busy mind \u2014 built to climb, fetch, and supervise the kitchen from the highest shelf in the house.",
+      "description": "Abyssinians look like they are always about to leave on an expedition. The coat is short and warm, each hair banded with ticking that reads as a wild rabbit in sunlight. Large ears, almond eyes, and a lean body complete the picture. They are busy without being frantic, and they would like to be involved in whatever you are doing, preferably from a height. Many will fetch. Most will open a cabinet if you leave it unlocked. They stay kittenish well into adulthood, which is charming until the paper towels come down.\n\nLiving with an Aby means offering vertical space, puzzle play, and a person who does not mind a supervisor. The short coat is a wipe-down; shedding stays modest. They can be fine with older, respectful children and with another pet if introductions are patient, though they often prefer to run the game. Apartments work if you commit to play and a tall tree. Leave them alone all day with nothing to do and they will invent hobbies. A second cat or a window onto birds covers a lot of the afternoon.\n\nThe modern breed was developed in Britain from cats associated with Ethiopia and the broader Horn of Africa, then refined into the ticked companion we know. The ruddy coat is the postcard; other colors exist. One honest health note: the breed can be prone to dental issues and, in some lines, pyruvate kinase deficiency, so ask about screening. What you get is a bright, athletic roommate who would like to sit on the fridge and watch you cook.",
+      "traits": {
+        "energy": 5,
+        "shedding": 2,
+        "trainability": 4,
+        "goodWithKids": 3,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 4,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/abyssinian/01.jpg",
+          "alt": "Ruddy Abyssinian cat sitting on pale oak floorboards in sun",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/abyssinian/02.jpg",
+          "alt": "Close portrait of an Abyssinian showing ticked coat and almond eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-bengal",
+        "cat-egyptian-mau",
+        "cat-oriental-shorthair"
+      ]
+    },
+    {
+      "id": "cat-american-shorthair",
+      "slug": "american-shorthair",
+      "species": "cat",
+      "name": "American Shorthair",
+      "origin": "United States",
+      "aliases": [
+        "ASH"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 15,
+        "max": 20
+      },
+      "shortDescription": "A sturdy, easygoing tabby built like a working barn cat \u2014 even-tempered, people-tolerant, and content with a windowsill and a sensible dinner.",
+      "description": "American Shorthairs are the cat you picture when someone says cat and means it kindly. The classic is a silver tabby with bold swirls, a round face, and a body that looks like it could still earn its keep in a barn. They are even-tempered and moderately playful, more likely to sit beside you than to ricochet off the curtains. They hunt if given the chance, then they nap with the seriousness of a union break.\n\nThey are an easy indoor companion. The short dense coat needs a weekly brush, and shedding is noticeable but manageable. They usually get on with children who are not rough and with other pets if no one crowds them. Apartments suit them. Energy is medium: a fishing-pole session and a window perch keep them fit. Watch the treats \u2014 that working-cat frame puts on weight if dinner is generous. They are not clingy, which some households prefer.\n\nThe breed descends from cats that traveled with European settlers and were later standardized in the United States as a robust, healthy companion, distinct from the lankier domestic shorthair of the street. The silver classic tabby remains the picture most people hold. One honest health note: hypertrophic cardiomyopathy can appear, as in many breeds, so screening and a lean body help. What you get is a calm, sturdy roommate with a marble expression and a talent for finding the warmest square of floor.",
+      "traits": {
+        "energy": 3,
+        "shedding": 3,
+        "trainability": 3,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 4,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/american-shorthair/01.jpg",
+          "alt": "Silver tabby American Shorthair sitting on a wooden porch step",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/american-shorthair/02.jpg",
+          "alt": "Close portrait of an American Shorthair with classic tabby markings",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-british-shorthair",
+        "cat-chartreux",
+        "cat-manx"
+      ]
+    },
+    {
+      "id": "cat-birman",
+      "slug": "birman",
+      "species": "cat",
+      "name": "Birman",
+      "origin": "France",
+      "aliases": [
+        "Sacred Birman"
+      ],
+      "sizeClass": "medium",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 12,
+        "max": 16
+      },
+      "shortDescription": "A silky, blue-eyed colorpoint with white gloves \u2014 gentle, people-focused, and happiest draped across the nearest quiet lap in the house they share.",
+      "description": "Birmans look ceremonial and then act like soft roommates. The coat is silky rather than cottony, the eyes a deep blue, and the paws wear white gloves as if they dressed for a formal occasion and then forgot. They are gentle and social, more likely to follow you from room to room than to stage a one-cat circus. Many talk in quiet trills. They want company, not a job.\n\nLiving with one is mostly about brushing and not leaving them alone for long days. The semi-long coat mats less than a Persian's, but the trousers and ruff still need regular combing. They are typically patient with children and easy with other pets. Apartments suit them because their energy is modest; a couple of play bursts and a window cover a lot of the day. They are not street-wise. Indoor life with a soft perch is the kinder plan. Expect a polite chirp, not a Siamese opera.\n\nThe modern breed was developed in France from cats associated with Burma, then standardized for that colorpointed, white-gloved look. They come in several point colors; seal and blue are the postcards. One honest health note: like other large-boned cats they can be prone to kidney disease and, in some lines, heart issues, so regular vet care matters. What you get is a warm, well-mannered roommate who would like to sit on the paperwork and look sacred about it.",
+      "traits": {
+        "energy": 2,
+        "shedding": 4,
+        "trainability": 3,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 5,
+        "apartmentFriendly": 5,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/birman/01.jpg",
+          "alt": "Seal-point Birman with white gloves sitting on a linen sofa",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/birman/02.jpg",
+          "alt": "Close portrait of a Birman cat with sapphire-blue eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-ragdoll",
+        "cat-himalayan",
+        "cat-tonkinese"
+      ]
+    },
+    {
+      "id": "cat-burmese",
+      "slug": "burmese",
+      "species": "cat",
+      "name": "Burmese",
+      "origin": "Myanmar",
+      "aliases": [
+        "Burmese Cat"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 16,
+        "max": 18
+      },
+      "shortDescription": "A compact, sable-coated extrovert that wants to be in the conversation \u2014 muscular, people-glued, and surprisingly heavy for the size of the package.",
+      "description": "Burmese cats are small tanks with opinions. The classic is a rich sable brown with gold eyes, a rounded head, and a body that weighs more than it looks. They are social to a fault: they greet the door, they sit on the book, they would like to help you type. Play is daily and interactive. A bored Burmese becomes a comedian, which is funnier when it is not 3 a.m.\n\nThe short glossy coat is almost no work; a rubber brush handles the shed. They usually enjoy children who will play and they often like other pets, especially another cat so they are not alone. Apartments suit them if you are home enough, or if you provide a buddy. They are not a distant windowsill statue. Training clicker tricks works because they want the game. Watch the waistline \u2014 that compact body hides extra ounces.\n\nThe breed traces to a walnut-brown cat from Burma who arrived in the United States in the 1930s and was outcrossed to Siamese, then refined into the sable companion we know. American and British types differ a little in head shape; both are people cats. One honest health note: some lines carry craniofacial issues or hypokalemia, so ask about screening. What you get is a warm, muscular roommate who would like to be on your shoulder while you cook.",
+      "traits": {
+        "energy": 4,
+        "shedding": 2,
+        "trainability": 4,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/burmese/01.jpg",
+          "alt": "Sable Burmese cat sitting on sunlit wooden floorboards",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/burmese/02.jpg",
+          "alt": "Close portrait of a Burmese cat with golden eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-tonkinese",
+        "cat-siamese",
+        "cat-sphynx"
+      ]
+    },
+    {
+      "id": "cat-chartreux",
+      "slug": "chartreux",
+      "species": "cat",
+      "name": "Chartreux",
+      "origin": "France",
+      "aliases": [
+        "Chartreux Cat"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "A blue-gray woolly cat with a quiet smile and copper eyes \u2014 sturdy, undemanding, and content to share a room on its own calm, unhurried terms.",
+      "description": "Chartreux cats look like they were knitted. The coat is a dense blue-gray wool, the eyes copper or gold, and the face often wears a slight smile that photographers love. They are quiet and sturdy, more likely to sit near you than on the keyboard. Play happens in short, serious bursts, then it is time to resume being a loaf. They hunt with focus if a toy pretends to be prey, then they put the toy away as if filing paperwork.\n\nThey are an easy indoor companion. The woolly coat needs a weekly brush more than a daily one, and shedding is seasonal. They usually get on with children who are not rough and with other pets if no one crowds them. Apartments suit them well. They are not athletes; a couple of fishing-pole sessions and a window perch keep them fit. They tend not to be loud. Some people find that the entire point.\n\nThe breed is an old French type, associated in stories with monastery cats, later standardized as the blue companion we know. Numbers dropped in wartime and were rebuilt. One honest health note: like other sturdy cats they can be prone to patellar issues and, in some lines, kidney disease, so keep them lean and keep up with vet visits. What you get is a quiet, smiling roommate who would like a sunny chair and not too many surprises.",
+      "traits": {
+        "energy": 2,
+        "shedding": 3,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/chartreux/01.jpg",
+          "alt": "Blue-gray Chartreux cat sitting on a pale stone windowsill",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/chartreux/02.jpg",
+          "alt": "Close portrait of a Chartreux with copper-orange eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-british-shorthair",
+        "cat-russian-blue",
+        "cat-american-shorthair"
+      ]
+    },
+    {
+      "id": "cat-cornish-rex",
+      "slug": "cornish-rex",
+      "species": "cat",
+      "name": "Cornish Rex",
+      "origin": "United Kingdom",
+      "aliases": [
+        "Rex Cat"
+      ],
+      "sizeClass": "small",
+      "coat": "curly",
+      "lifespanYears": {
+        "min": 11,
+        "max": 15
+      },
+      "shortDescription": "A wavy-coated acrobat with huge ears and a dancer's body \u2014 warm to the touch, busy in the air, and surprisingly easy to keep as an indoor companion.",
+      "description": "Cornish Rex cats look like they were designed by a cartoonist who liked eggs and waves. The coat is short, fine, and curly, the head egg-shaped, the ears enormous, the body a series of arches. They are warm to the hand because there is not much coat in the way. They are also busy: they climb, they fetch, they sprint along the back of the sofa. Many remain playful well past the age when other cats have taken up philosophy.\n\nHair is not the project; skin and calories are. They can get oily, so an occasional bath or wipe helps, and they feel the cold, so a sweater or a sunny patch is kindness. Shedding is low. They usually enjoy children who will play and they often like other pets. Apartments suit them if you offer height and games. They will sit on the laptop because the laptop is warm. They will also sit on your shoulder because it is high.\n\nThe breed began with a curly kitten born in Cornwall in the 1950s, then was developed as a distinct rex, separate from the Devon. The wave is the point, not a trim. One honest health note: the breed can be prone to heart disease and to skin irritation if grooming is neglected. What you get is a toasty, athletic roommate who would like to be in the air, then on your neck, then in the laundry.",
+      "traits": {
+        "energy": 4,
+        "shedding": 1,
+        "trainability": 4,
+        "goodWithKids": 3,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/cornish-rex/01.jpg",
+          "alt": "Cornish Rex with a wavy cream-gray coat sitting on a wooden floor",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/cornish-rex/02.jpg",
+          "alt": "Close portrait of a Cornish Rex showing huge ears and curly coat",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-devon-rex",
+        "cat-sphynx",
+        "cat-oriental-shorthair"
+      ]
+    },
+    {
+      "id": "cat-devon-rex",
+      "slug": "devon-rex",
+      "species": "cat",
+      "name": "Devon Rex",
+      "origin": "United Kingdom",
+      "aliases": [
+        "Pixie Cat"
+      ],
+      "sizeClass": "small",
+      "coat": "curly",
+      "lifespanYears": {
+        "min": 9,
+        "max": 15
+      },
+      "shortDescription": "A pixie-faced curly cat with satellite-dish ears \u2014 mischievous, lap-seeking, and convinced the whole household exists mainly to be climbed on.",
+      "description": "Devon Rex cats look like elves who learned to be cats. The face is short and pixie-like, the ears enormous and low, the coat a soft ripple that can be sparse in places. They are mischievous and people-oriented, famous for perching on shoulders and for treating the refrigerator door as a conversation. Energy is high but the body is small, so play can happen in a studio if you are willing. They stay warm on your lap because they like the heat and because they like you.\n\nThe wavy coat is not a grooming career, though some need the occasional bath. Shedding is low. They usually enjoy gentle children and they often like other pets; many prefer a buddy. Apartments suit them. They feel the cold. They will steal the warm laundry without shame. Training clicker tricks works because they think it is a game you invented for them, which is not entirely wrong.\n\nThe breed began with a curly kitten in Devon in the 1960s, genetically distinct from the Cornish Rex. Outcrosses kept the gene pool going. One honest health note: some lines carry hypertrophic cardiomyopathy or a congenital muscle condition, so ask about screening. What you get is a warm, theatrical roommate who would like to sit on your head and look surprised that you noticed.",
+      "traits": {
+        "energy": 4,
+        "shedding": 1,
+        "trainability": 4,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/devon-rex/01.jpg",
+          "alt": "Devon Rex cat with huge ears sitting on a folded linen blanket",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/devon-rex/02.jpg",
+          "alt": "Close portrait of a Devon Rex showing a pixie face and wavy coat",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-cornish-rex",
+        "cat-sphynx",
+        "cat-burmese"
+      ]
+    },
+    {
+      "id": "cat-egyptian-mau",
+      "slug": "egyptian-mau",
+      "species": "cat",
+      "name": "Egyptian Mau",
+      "origin": "Egypt",
+      "aliases": [
+        "Mau"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "A naturally spotted athlete with gooseberry-green eyes \u2014 fast, watchful, and happiest when the house includes a window, a toy, and a real chase.",
+      "description": "Egyptian Maus wear spots they were born with, not spots a designer painted on. The coat is short and randomly spotted, the eyes a striking green, and the body built for a sprint. They are often cited as the fastest domestic cat, which you will believe the first time one crosses the hallway. They can be a little reserved with strangers and deeply attached to their people. A chirp or chortle is part of the soundtrack. They like water more than the average cat, which is a trivia fact until the sink is full.\n\nLiving with a Mau means offering chase games, vertical space, and a predictable household. Shedding is usually modest; a rubber brush handles the sleek coat. They can be fine with older children and with other pets if you introduce them carefully, but they are not a low-key only-cat-in-a-studio by default. A larger apartment works if you commit to play. They notice changes. They also notice the treat jar.\n\nThe breed is associated with spotted cats of Egypt and was developed as a modern companion from cats brought to the West in the mid-twentieth century. The silver spotted look is the postcard. One honest health note: some lines have a higher rate of leukodystrophy or patellar issues, so ask about screening. What you get is a glittering, watchful roommate who would like a job that involves running.",
+      "traits": {
+        "energy": 4,
+        "shedding": 2,
+        "trainability": 3,
+        "goodWithKids": 3,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 4,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/egyptian-mau/01.jpg",
+          "alt": "Silver spotted Egyptian Mau sitting on a sunlit windowsill",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/egyptian-mau/02.jpg",
+          "alt": "Close portrait of an Egyptian Mau with green eyes and mascara lines",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-bengal",
+        "cat-abyssinian",
+        "cat-american-shorthair"
+      ]
+    },
+    {
+      "id": "cat-exotic-shorthair",
+      "slug": "exotic-shorthair",
+      "species": "cat",
+      "name": "Exotic Shorthair",
+      "origin": "United States",
+      "aliases": [
+        "Exotic",
+        "Teddy Bear Cat"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "A plush, snub-nosed teddy of a cat \u2014 Persian personality in a shorter coat, happiest on a sofa with a view and a quiet, predictable household.",
+      "description": "Exotic Shorthairs are Persians who got a practical haircut and kept the face. The body is cobby, the eyes huge and round, the nose snub, the coat a dense plush that looks like a stuffed animal and sheds like a real one. They are typically calm, affectionate, and undemanding, more loaf than acrobat. They want to be near you. They do not necessarily want to be in a conversation about it.\n\nThe short coat is easier than a Persian's, but it is not zero work: a few brushes a week keep the dense fur from matting, and the face may need gentle wiping. They are usually patient with children and easy with other pets. Apartments suit them because energy is low. Watch the heat and the airways \u2014 that flat face is the trade-off for the teddy-bear look. Keep play gentle. Keep them lean. A window bird-feeder covers a surprising amount of the day.\n\nThe breed was developed in the United States by crossing Persians with shorthairs, then breeding back for the Persian type in a short coat. They come in the same colors as Persians. One honest health note: as a brachycephalic breed they can struggle with breathing, tear overflow, and dental crowding; choose breeders who keep faces moderate and keep the vet in the loop. What you get is a quiet, plush roommate who would like to be a cushion that purrs.",
+      "traits": {
+        "energy": 2,
+        "shedding": 3,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 3
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/exotic-shorthair/01.jpg",
+          "alt": "Blue-gray Exotic Shorthair sitting on a pale wooden table",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/exotic-shorthair/02.jpg",
+          "alt": "Close portrait of an Exotic Shorthair with a round face and copper eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-persian",
+        "cat-british-shorthair",
+        "cat-himalayan"
+      ]
+    },
+    {
+      "id": "cat-himalayan",
+      "slug": "himalayan",
+      "species": "cat",
+      "name": "Himalayan",
+      "origin": "United States",
+      "aliases": [
+        "Himmy",
+        "Colorpoint Persian"
+      ],
+      "sizeClass": "medium",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 9,
+        "max": 15
+      },
+      "shortDescription": "A longhaired colorpoint with a Persian face and blue eyes \u2014 quiet, decorative, and a serious grooming project that prefers the sofa to the sprint.",
+      "description": "Himalayans are Persians in a pointed coat. The body is cobby, the face flat, the eyes a decided blue, and the fur a long cream field with darker points on the mask, ears, legs, and tail. They are typically gentle and quiet, more interested in a lap than a laser. Play is optional and short. They would like the household to be predictable and the brush to be non-negotiable.\n\nLiving with one is a coat project. Daily combing keeps the long fur from matting, especially around the ruff and trousers, and the face often needs wiping. Shedding is heavy. They are usually patient with children who are gentle and they can live with other calm pets. Apartments suit them. They are not heat-tolerant in a heavy coat, and they are not hikers. Keep them indoors, keep them cool in summer, and keep the airways in mind \u2014 that snub face is the same bargain as the Persian.\n\nThe breed was developed in the United States and Britain by crossing Persians with Siamese for the points, then breeding back to Persian type. Some registries still call them Colorpoint Persians. One honest health note: brachycephaly, tear overflow, and polycystic kidney disease appear in Persian-type cats; ask about screening. What you get is a plush, blue-eyed roommate who would like to be admired, brushed, and not asked to jump.",
+      "traits": {
+        "energy": 2,
+        "shedding": 5,
+        "trainability": 2,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 5
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/himalayan/01.jpg",
+          "alt": "Chocolate-point Himalayan cat sitting on a cream sofa",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/himalayan/02.jpg",
+          "alt": "Close portrait of a Himalayan with a flat face and blue eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-persian",
+        "cat-birman",
+        "cat-ragdoll"
+      ]
+    },
+    {
+      "id": "cat-manx",
+      "slug": "manx",
+      "species": "cat",
+      "name": "Manx",
+      "origin": "Isle of Man",
+      "aliases": [
+        "Manx Cat"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 8,
+        "max": 14
+      },
+      "shortDescription": "A round-rumped, often tailless cat with a rabbit-like hop \u2014 sturdy, loyal, and happiest when the household includes a small job and a window.",
+      "description": "Manx cats are famous for what is missing. Many are rumpy, with a rounded rump and no tail; others keep a stump or a short tail. The body is compact and powerful, the hind legs longer than the front, which gives a rabbit-like hop when they run. They are often loyal in a dog-like way, following a favorite person and learning the household routine. Play is moderate and purposeful. They can be excellent mousers if you still have a mouse problem, which most apartments do not.\n\nThe short coat is easy; a longer-haired variety exists as the Cymric in some registries. Shedding is moderate. They usually get on with children and with other pets when raised together. Apartments can work if you offer play and height. The honest trade-off is the spine: the same gene that shortens the tail can affect the spinal cord, so responsible breeding avoids breeding rumpy to rumpy and watches for hopping trouble or incontinence. Ramps beat leaping off tall furniture.\n\nThe breed is native to the Isle of Man, where tailless cats were already a local fact before shows named them. Folklore blamed Vikings, cats, and boats; genetics is less poetic. One honest health note: Manx syndrome is real \u2014 choose breeders who screen and who will talk about it. What you get is a sturdy, round roommate who would like to patrol the house and then sit on the exact chair you wanted.",
+      "traits": {
+        "energy": 3,
+        "shedding": 3,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 4,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/manx/01.jpg",
+          "alt": "Red tabby Manx cat sitting on a garden step, showing a rounded tailless rump",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/manx/02.jpg",
+          "alt": "Close portrait of a Manx cat with a round face and copper eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-american-shorthair",
+        "cat-british-shorthair",
+        "cat-norwegian-forest"
+      ]
+    },
+    {
+      "id": "cat-norwegian-forest",
+      "slug": "norwegian-forest",
+      "species": "cat",
+      "name": "Norwegian Forest Cat",
+      "origin": "Norway",
+      "aliases": [
+        "Wegie",
+        "Skogkatt"
+      ],
+      "sizeClass": "large",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 12,
+        "max": 16
+      },
+      "shortDescription": "A big-boned forest cat with a water-resistant ruff and tufted ears \u2014 independent, climbing-minded, and built for weather you probably do not have.",
+      "description": "Norwegian Forest Cats look like they walked out of a folktale and asked for dinner. They are large, slow to mature, and dressed in a double coat with a ruff, britches, and a plume of a tail. Lynx tips on the ears are common. They are more independent than a Ragdoll and more of a climber than a Maine Coon, with a habit of seeking the highest shelf in the room. They are friendly without being clingy. Play is moderate: a good session, then a long survey of the territory.\n\nLiving with a Wegie means planning for fur and for height. The coat is water-resistant and sheds heavily in spring; a weekly thorough comb keeps the ruff honest. They usually do well with respectful children and with other pets. An apartment can work if you offer vertical space, but they are happier with room to patrol. They like puzzle feeders and windows. They will sit in a damp sink if one is available, because forest cats have opinions about water.\n\nThe breed is Norway's native longhair, a farm and forest cat later standardized and, in stories, associated with Freya's wagon. Whether myth or marketing, the cat is real and hardy. One honest health note: glycogen storage disease and hip issues appear in some lines; ask about screening and keep them lean. What you get is a calm, big-boned roommate who would like a high perch and a person who owns a good comb.",
+      "traits": {
+        "energy": 3,
+        "shedding": 5,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 3,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/norwegian-forest/01.jpg",
+          "alt": "Brown tabby Norwegian Forest Cat sitting on a wooden deck",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/norwegian-forest/02.jpg",
+          "alt": "Close portrait of a Norwegian Forest Cat showing ruff and ear tufts",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-maine-coon",
+        "cat-siberian",
+        "cat-turkish-angora"
+      ]
+    },
+    {
+      "id": "cat-oriental-shorthair",
+      "slug": "oriental-shorthair",
+      "species": "cat",
+      "name": "Oriental Shorthair",
+      "origin": "United States",
+      "aliases": [
+        "Oriental"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "A Siamese in every color: huge ears, a wedge head, and a running commentary \u2014 sleek, demanding, and happiest when the household talks right back.",
+      "description": "Oriental Shorthairs are Siamese who went to art school. The body is long and tubular, the head a wedge, the ears enormous, the coat short and close in nearly every color and pattern a cat can wear. Solid ebony is a favorite picture. They are vocal, social, and convinced that closed doors are a personal slight. They bond hard. Play is not optional. They will fetch. They will also tell you about the fetch.\n\nLiving with one means offering height, toys that move, and a person who will answer. The short coat is a wipe-down, and shedding stays on the low side. They often do well with respectful children and can share a home with another pet if introductions are patient; many prefer a buddy so they are not alone all day. Apartments suit them if you can play. They will find the paper bag. They will also find your keyboard and sit on the letter that matters.\n\nThe breed was developed from Siamese outcrosses in the United States and Britain to keep the foreign type in a rainbow of coats. They are, in personality, Siamese without the points. One honest health note: the same dental and, in some lines, liver or heart concerns that show up in Siamese can appear here. What you get is a sleek, witty roommate who treats you like their favorite show and expects notes after every episode.",
+      "traits": {
+        "energy": 5,
+        "shedding": 2,
+        "trainability": 4,
+        "goodWithKids": 3,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/oriental-shorthair/01.jpg",
+          "alt": "Ebony Oriental Shorthair sitting on pale wooden floorboards",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/oriental-shorthair/02.jpg",
+          "alt": "Close portrait of an Oriental Shorthair with huge ears and green eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-siamese",
+        "cat-abyssinian",
+        "cat-tonkinese"
+      ]
+    },
+    {
+      "id": "cat-persian",
+      "slug": "persian",
+      "species": "cat",
+      "name": "Persian",
+      "origin": "Iran",
+      "aliases": [
+        "Persian Longhair"
+      ],
+      "sizeClass": "medium",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 10,
+        "max": 17
+      },
+      "shortDescription": "A floor-length, snub-nosed icon of calm \u2014 decorative, devoted to the sofa, and a daily grooming commitment rather than a casual weekend hobby.",
+      "description": "Persians are the longhair people picture on a calendar. The coat is a cloud, the face is flat, the eyes are large and round, and the personality is typically a quiet loaf. They are not built for the sprint or the curtain. They are built for a cushion, a routine, and a person with a comb. Many are sweet and a little stubborn. They would like the household to be peaceful. They will not be the one to make it otherwise.\n\nDaily grooming is the deal. Skip a few days and the ruff and trousers mat. The face often needs wiping because tear staining is part of the snub-nose package. Shedding is heavy. They are usually patient with gentle children and easy with other calm pets. Apartments suit them. They do not tolerate heat well in that coat. Keep them indoors, keep the floors cool in summer, and keep play short. This is not a hypoallergenic cat, and it is not a low-maintenance one.\n\nThe breed is old, associated with Iran and with centuries of longhaired cats that traveled west, then refined \u2014 and flattened \u2014 by modern show fashion. Moderate faces exist and are kinder to breathe through. One honest health note: brachycephaly, polycystic kidney disease, and dental crowding are known; ask about screening and prefer a nose that still works. What you get is a plush, copper-eyed roommate who would like to be brushed, photographed, and left in peace on the sofa.",
+      "traits": {
+        "energy": 1,
+        "shedding": 5,
+        "trainability": 2,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 5
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/persian/01.jpg",
+          "alt": "White Persian cat with a long coat sitting on a linen sofa",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/persian/02.jpg",
+          "alt": "Close portrait of a white Persian with copper-orange eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-himalayan",
+        "cat-exotic-shorthair",
+        "cat-birman"
+      ]
+    },
+    {
+      "id": "cat-russian-blue",
+      "slug": "russian-blue",
+      "species": "cat",
+      "name": "Russian Blue",
+      "origin": "Russia",
+      "aliases": [
+        "Archangel Blue"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 15,
+        "max": 20
+      },
+      "shortDescription": "A plush silver-blue cat with vivid green eyes \u2014 shy with strangers, devoted at home, and happiest in a quiet routine with a favorite person.",
+      "description": "Russian Blues look like moonlight in coat form. The fur is a dense, silvery blue that stands away from the skin, the eyes a vivid green, the outline elegant rather than cobby. They are often reserved with guests and openly affectionate with their own people once the door is shut. They like routine. They like a puzzle. They are not usually loud. A shy Russian Blue is not broken; it is being a Russian Blue.\n\nThe short double-feeling coat needs a weekly brush and sheds less than it looks like it should. They usually do better with older, respectful children than with chaotic toddlers, and they can live with other pets if introductions are slow. Apartments suit them. Energy is moderate: they sprint, then they vanish onto a high shelf. Give them hiding places as well as play. They will learn the sound of the treat tin. They will also learn which visitor sits too loudly.\n\nThe breed is associated with the port of Arkhangelsk and with blue cats that reached Western Europe by ship, later standardized as the elegant companion we know. Wartime numbers dropped and were rebuilt with care. One honest health note: they are often long-lived and relatively sturdy, though bladder crystals and dental tartar still show up; keep water interesting and teeth in the plan. What you get is a quiet, plush roommate who would like a predictable evening and a person who does not throw parties every weekend.",
+      "traits": {
+        "energy": 3,
+        "shedding": 2,
+        "trainability": 4,
+        "goodWithKids": 3,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/russian-blue/01.jpg",
+          "alt": "Russian Blue cat sitting on a pale wooden floor",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/russian-blue/02.jpg",
+          "alt": "Close portrait of a Russian Blue with silvery coat and green eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-chartreux",
+        "cat-british-shorthair",
+        "cat-siamese"
+      ]
+    },
+    {
+      "id": "cat-scottish-fold",
+      "slug": "scottish-fold",
+      "species": "cat",
+      "name": "Scottish Fold",
+      "origin": "Scotland",
+      "aliases": [
+        "Fold"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 11,
+        "max": 15
+      },
+      "shortDescription": "A round, owl-faced cat with folded ears \u2014 sweet and sofa-minded, with an honest health trade-off that belongs in the decision, not the fine print.",
+      "description": "Scottish Folds are famous for the ears that fold forward, giving an owl-like face and a look people describe as permanently listening. The body is rounded, the eyes large, the coat often a silver tabby in the pictures, though many colors exist. They are typically sweet, undemanding, and fond of odd sitting positions \u2014 the loaf, the Buddha, the sideways sprawl. Energy is low to moderate. They want company more than they want a job.\n\nThe short coat is easy; a longhaired variety exists. They usually get on with children and with other pets. Apartments suit them. The folded ear is not a styling choice. It is a cartilage mutation, and the same gene can affect cartilage throughout the body. That is the sentence that belongs on the first page, not the last. Responsible programs avoid fold-to-fold breeding and are frank about osteochondrodysplasia. Some people choose straight-eared littermates instead. Either way, watch for stiffness and keep jumps reasonable.\n\nThe breed began with a folded-ear farm cat in Scotland in the 1960s, then was developed with British and American shorthairs. It remains popular and controversial for the same reason: the look. One honest health note: joint disease tied to the fold gene is well documented; talk to a vet and a frank breeder, or consider a similar round-faced breed without the fold. What you get, if you go ahead, is a gentle, owl-eyed roommate who would like a soft perch and a household that does not pretend the ears are only cute.",
+      "traits": {
+        "energy": 2,
+        "shedding": 3,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/scottish-fold/01.jpg",
+          "alt": "Silver tabby Scottish Fold sitting on a wooden table, ears folded",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/scottish-fold/02.jpg",
+          "alt": "Close portrait of a Scottish Fold with folded ears and round eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-british-shorthair",
+        "cat-exotic-shorthair",
+        "cat-american-shorthair"
+      ]
+    },
+    {
+      "id": "cat-siberian",
+      "slug": "siberian",
+      "species": "cat",
+      "name": "Siberian",
+      "origin": "Russia",
+      "aliases": [
+        "Siberian Forest Cat"
+      ],
+      "sizeClass": "large",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 11,
+        "max": 18
+      },
+      "shortDescription": "A powerful, triple-coated forest cat with a round face and a dog-like loyalty \u2014 athletic, people-oriented, and a serious seasonal shed in spring.",
+      "description": "Siberians are the other gentle giant, rounder in the face than a Maine Coon and just as interested in following you around. They are large, slow to fill out, and dressed in a dense triple coat with a ruff and a full tail. They are playful and often dog-like: they greet the door, they walk on a leash more readily than most cats, they chirp. Energy is moderate with bursts. They like water. They like height. They like a person who will play after dinner.\n\nThe coat is a project in spring, when the undercoat lets go in handfuls. A weekly comb, more in blow season, keeps the ruff from matting. They usually do well with children and with other pets. An apartment can work if you offer vertical space and daily play, but they are happiest with room to stretch. No cat is a guarantee for allergies; some people report doing better with Siberians, which is a personal experiment, not a promise.\n\nThe breed is Russia's native longhair, a farm and forest cat later given a standard and a following far from Siberia. They take years to mature, which is a polite way of saying the kitten stage is long. One honest health note: hypertrophic cardiomyopathy appears, as in other large breeds; ask about screening. What you get is a round-faced, athletic roommate who would like to help you with the faucet and then nap on your papers.",
+      "traits": {
+        "energy": 3,
+        "shedding": 4,
+        "trainability": 4,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 3,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/siberian/01.jpg",
+          "alt": "Brown tabby Siberian cat sitting on a wooden bench indoors",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/siberian/02.jpg",
+          "alt": "Close portrait of a Siberian cat showing a circular face and ruff",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-maine-coon",
+        "cat-norwegian-forest",
+        "cat-ragdoll"
+      ]
+    },
+    {
+      "id": "cat-tonkinese",
+      "slug": "tonkinese",
+      "species": "cat",
+      "name": "Tonkinese",
+      "origin": "United States",
+      "aliases": [
+        "Tonk"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 12,
+        "max": 16
+      },
+      "shortDescription": "A Siamese-Burmese middle child with aqua eyes and a mink coat \u2014 social, athletic, and convinced that every room is better with a live audience.",
+      "description": "Tonkinese cats sit between Siamese drama and Burmese glue. The body is medium and muscular, the coat short, the eyes often a striking aqua, the color a mink that shades from darker points into a warm body. They are social, athletic, and talkative without always reaching full Siamese volume. They want to be in the room. They want a game. They will fetch. They will also sit on the guest, because the guest is new and therefore interesting.\n\nThe short coat is easy; shedding is modest. They usually enjoy children who will play and they often like other pets \u2014 many are happier with a buddy than as an only cat in a quiet house. Apartments suit them if you commit to play. Leave them alone all day and they will invent a show. Puzzle feeders, a tall tree, and a person who comes home for lunch cover a lot of the trouble. Training works because they think you are playing.\n\nThe breed was developed in North America from Siamese and Burmese crosses, then standardized for that middle type and mink coloring. Pointed and solid-looking coats also occur. One honest health note: they can inherit dental issues and, in some lines, the same heart concerns as their parent breeds; keep up with vet care. What you get is a warm, aqua-eyed roommate who would like to be on the counter and in the conversation.",
+      "traits": {
+        "energy": 4,
+        "shedding": 2,
+        "trainability": 4,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/tonkinese/01.jpg",
+          "alt": "Mink Tonkinese cat sitting on sunlit wooden floorboards",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/tonkinese/02.jpg",
+          "alt": "Close portrait of a Tonkinese with aqua-green eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-siamese",
+        "cat-burmese",
+        "cat-oriental-shorthair"
+      ]
+    },
+    {
+      "id": "cat-turkish-angora",
+      "slug": "turkish-angora",
+      "species": "cat",
+      "name": "Turkish Angora",
+      "origin": "Turkey",
+      "aliases": [
+        "Angora"
+      ],
+      "sizeClass": "medium",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 12,
+        "max": 18
+      },
+      "shortDescription": "An elegant, fine-boned longhair with a plumed tail \u2014 playful, vocal, and much lighter on the furniture than that silky coat would have you believe.",
+      "description": "Turkish Angoras look like they should be porcelain and then they sprint. The body is fine-boned and graceful, the coat silky and single rather than cottony, the tail a plume they carry like a banner. White with odd eyes is the postcard; other colors exist. They are playful, often vocal, and more athletic than the longhair stereotype. They like height. They like water more than average. They like a person who will play instead of only admire.\n\nThe silky coat is less of a mat factory than a Persian's, but it still needs regular combing, especially in the trousers. Shedding is moderate. They can be fine with older children and with other pets if you introduce them carefully; some are a little bossy. Apartments work if you offer vertical space. They are not a lap ornament who forgot how to jump. Keep breakables off the high shelf or accept the risk.\n\nThe breed is native to Turkey, associated with Ankara, and was a treasured white cat long before Western shows. Odd-eyed whites can carry deafness in one or both ears, which is the honest sentence: test hearing and keep them indoors. One honest health note: besides deafness in some white cats, hypertrophic cardiomyopathy can appear; ask about screening. What you get is a graceful, slightly mischievous roommate who would like to be on the bookcase and then in the sink.",
+      "traits": {
+        "energy": 4,
+        "shedding": 3,
+        "trainability": 4,
+        "goodWithKids": 3,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 4,
+        "groomingNeed": 3
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/turkish-angora/01.jpg",
+          "alt": "White Turkish Angora sitting on a pale wooden floor by a window",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/turkish-angora/02.jpg",
+          "alt": "Close portrait of a Turkish Angora with odd blue and amber eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "cat-siberian",
+        "cat-oriental-shorthair",
+        "cat-norwegian-forest"
+      ]
+    },
+    {
+      "id": "dog-australian-shepherd",
+      "slug": "australian-shepherd",
+      "species": "dog",
+      "name": "Australian Shepherd",
+      "origin": "United States",
+      "aliases": [
+        "Aussie"
+      ],
+      "sizeClass": "medium",
+      "coat": "medium",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "A bright, medium herding dog in a merle coat \u2014 built for a job, a person, and a household that actually likes to train hard every single day.",
+      "description": "Australian Shepherds are American farm dogs with a misleading name and a very honest work ethic. The merle coat, marble eyes, and docked or natural tail are the postcard; the brain is the actual personality. They were bred to hustle livestock, and they still want a task, not a weekend hobby. A well-trained Aussie is a joy. An under-employed one invents herding work you did not request, often involving children, vacuums, and the cat.\n\nPlan on serious exercise and training, not a stroll around the block. The medium coat sheds, more than first-time owners guess from the pretty pictures. They can be wonderful with children they are raised with, and they may be reserved with strangers. Other pets work when the dog is socialized early; small running things can look like stock. Apartments are a stretch unless you are an athlete with a plan. Mental work counts as much as mileage: agility, herding, nose work, a real job.\n\nThe breed took shape on American ranches, not in Australia, from herding stock that may include Basque and British lines. They became a sport and family favorite later. One honest health note: hips, eyes, and the merle gene (especially double merle) are known concerns; ask about screening and never breed merle to merle. What you get is a brilliant, loyal roommate who would like to learn the household rules and then enforce them with great sincerity.",
+      "traits": {
+        "energy": 5,
+        "shedding": 4,
+        "trainability": 5,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 2,
+        "groomingNeed": 3
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/australian-shepherd/01.jpg",
+          "alt": "Blue merle Australian Shepherd sitting on a green lawn",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/australian-shepherd/02.jpg",
+          "alt": "Close portrait of an Australian Shepherd with merle coat and marble eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-border-collie",
+        "dog-german-shepherd",
+        "dog-pembroke-welsh-corgi"
+      ]
+    },
+    {
+      "id": "dog-bernese-mountain-dog",
+      "slug": "bernese-mountain-dog",
+      "species": "dog",
+      "name": "Bernese Mountain Dog",
+      "origin": "Switzerland",
+      "aliases": [
+        "Berner",
+        "BMD"
+      ],
+      "sizeClass": "large",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 7,
+        "max": 10
+      },
+      "shortDescription": "A huge, tricolor farm dog with a sweet face \u2014 gentle, people-glued, and a serious shed who would rather walk beside you than run a marathon.",
+      "description": "Bernese Mountain Dogs look like they should be pulling a cart, and historically they did. They are large, tri-colored, and famously gentle with their people, more likely to lean than to bounce. Energy is moderate for the size: a good walk, some training, then a sprawl across the doorway. They mature slowly. Puppies are a lot of dog in a clumsy package. Adults are a lot of dog who would like to be in the room.\n\nLiving with a Berner means space, a vacuum, and an honest look at the lifespan. The long coat sheds heavily and mats if ignored; a few sessions a week keep the trousers honest. They are typically wonderful with children and easy with other pets when raised with them. Apartments are a poor fit: size, heat, and the desire to be near you in every room add up. They do not love hot weather. They do love a job that involves pulling, backpacking, or simply accompanying you to the garden.\n\nThe breed comes from the farm dogs of Bern, Switzerland, used as drovers, cart dogs, and companions. The white blaze, rust markings, and black body are the classic. One honest health note: cancer and joint disease are painfully common, and the typical lifespan is shorter than many large breeds; go in with your eyes open and keep them lean. What you get is a sweet, heavy roommate who would like to walk beside you and then lie on your feet.",
+      "traits": {
+        "energy": 3,
+        "shedding": 5,
+        "trainability": 4,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 1,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/bernese-mountain-dog/01.jpg",
+          "alt": "Tricolor Bernese Mountain Dog sitting in a green meadow",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/bernese-mountain-dog/02.jpg",
+          "alt": "Close portrait of a Bernese Mountain Dog with a white blaze",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
         "dog-golden-retriever",
+        "dog-rottweiler",
+        "dog-great-dane"
+      ]
+    },
+    {
+      "id": "dog-border-collie",
+      "slug": "border-collie",
+      "species": "dog",
+      "name": "Border Collie",
+      "origin": "United Kingdom",
+      "aliases": [
+        "BC"
+      ],
+      "sizeClass": "medium",
+      "coat": "medium",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "The textbook herding dog: intense eyes, endless battery, and a brain that will find work if you do not provide it. Not a casual first couch dog.",
+      "description": "Border Collies are the dog people mean when they say too smart for their own good. The black-and-white outline, the eye, and the crouch are working tools, not a costume. They were bred to think with a shepherd at a distance, and they still want a job that uses that brain. A bored Border Collie is not a little restless. It is a project. Sport, herding, advanced obedience, or a real farm are the kind of days they were built for.\n\nThis is not an apartment dog unless you are unusually committed. They need miles and puzzles, not a yard to stare at. The coat sheds. They can be wonderful with older children who understand a herding dog is not a stuffed toy, and they may be too much for toddlers. Other pets depend on the individual; motion can trigger the eye. Training is a pleasure because they want to work, and a necessity because they will invent rules. Recall around livestock or bikes is a hobby you keep practicing.\n\nThe breed comes from the border country of Scotland and England, refined as a sheepdog rather than a show piece. Lines vary from trial-bred rockets to slightly softer companions; none are couch potatoes by default. One honest health note: hips, eyes, and collie eye anomaly appear; ask about screening. What you get is a brilliant, intense roommate who would like a job before breakfast, and another one after.",
+      "traits": {
+        "energy": 5,
+        "shedding": 4,
+        "trainability": 5,
+        "goodWithKids": 3,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 1,
+        "groomingNeed": 3
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/border-collie/01.jpg",
+          "alt": "Black and white Border Collie sitting in a sunlit grassy field",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/border-collie/02.jpg",
+          "alt": "Close portrait of a Border Collie with an intense amber-eyed stare",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-australian-shepherd",
+        "dog-german-shepherd",
+        "dog-german-shorthaired-pointer"
+      ]
+    },
+    {
+      "id": "dog-boston-terrier",
+      "slug": "boston-terrier",
+      "species": "dog",
+      "name": "Boston Terrier",
+      "origin": "United States",
+      "aliases": [
+        "Boston",
+        "American Gentleman"
+      ],
+      "sizeClass": "small",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 11,
+        "max": 13
+      },
+      "shortDescription": "A compact tuxedo companion with round eyes and a clown streak \u2014 city-sized, people-focused, and happiest when the household includes short play and a nap.",
+      "description": "Boston Terriers wear a tuxedo and then act like comedians. The compact square body, upright ears, and round dark eyes make them look formal; the personality is bounce, snort, and a desire to be where the people are. Energy is moderate: a few play bursts, a neighborhood stroll, then a serious nap. They have opinions. They also have a talent for looking offended when you leave the room. The short coat is easy. The snoring is not optional.\n\nThey suit apartments and smaller homes, which is a large part of the appeal. Shedding is modest. They are usually good with children who treat them as dogs, not toys, and they can live with other pets. They do not tolerate heat well, and they are not hiking partners. Training works if you keep it kind and interesting. Watch the waistline. A Boston with extra weight has a harder time breathing and moving, and those prominent eyes need protecting from scratches.\n\nThe breed was developed in Boston in the nineteenth century from bulldog and terrier crosses, then became a companion rather than a pit dog. The tuxedo markings are the picture most people hold. One honest health note: as a brachycephalic breed they can struggle with heat, airways, and sometimes patellas; keep exercise gentle in warm weather. What you get is a snoring, tuxedoed roommate who would like to share your chair and your snack.",
+      "traits": {
+        "energy": 3,
+        "shedding": 2,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/boston-terrier/01.jpg",
+          "alt": "Boston Terrier in a black-and-white tuxedo coat sitting on wooden floorboards",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/boston-terrier/02.jpg",
+          "alt": "Close portrait of a Boston Terrier with round dark eyes and upright ears",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-french-bulldog",
+        "dog-pug",
+        "dog-cavalier-king-charles-spaniel"
+      ]
+    },
+    {
+      "id": "dog-boxer",
+      "slug": "boxer",
+      "species": "dog",
+      "name": "Boxer",
+      "origin": "Germany",
+      "aliases": [
+        "German Boxer"
+      ],
+      "sizeClass": "large",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 10,
+        "max": 12
+      },
+      "shortDescription": "A square, bouncy guardian with a black mask \u2014 clownish at home, watchful at the door, and a large dog who stays a puppy longer than the furniture likes.",
+      "description": "Boxers are clowns in a guard dog's body. The fawn or brindle coat, black mask, and square jaw are the look; the personality is bounce, wriggle, and a sincere belief that you came home to play. They stay puppy-minded well into adulthood, which is charming until the coffee table loses. They are typically patient with their own children and reserved with strangers, a combination families like until the jumping is still happening at age three. Training is not optional. It is how you keep the clown indoors.\n\nThe short coat is easy; shedding is modest. They need daily exercise that is more than a block, but they are not built for midday heat. Apartments can work for a well-trained adult with a plan; a bored Boxer is loud and athletic. They usually do well with children they are raised with. Other pets depend on early socializing. Watch the mouthiness in adolescence. Watch the heart as they age. Keep them lean; that chest was not designed to carry extra weight.\n\nThe breed was developed in Germany from mastiff-type dogs as a working and companion animal, later a show and family favorite. Cropped ears are a fashion, not a requirement. One honest health note: boxers are overrepresented in heart disease, cancers, and bloat; ask about screening and learn the signs of gastric torsion. What you get is a goofy, loyal roommate who would like to sit on you, then patrol the hallway, then sit on you again.",
+      "traits": {
+        "energy": 4,
+        "shedding": 2,
+        "trainability": 4,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 3,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/boxer/01.jpg",
+          "alt": "Fawn Boxer with a black mask sitting on a green lawn",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/boxer/02.jpg",
+          "alt": "Close portrait of a Boxer showing a square jaw and black muzzle",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-bulldog",
+        "dog-great-dane",
+        "dog-labrador-retriever"
+      ]
+    },
+    {
+      "id": "dog-bulldog",
+      "slug": "bulldog",
+      "species": "dog",
+      "name": "Bulldog",
+      "origin": "United Kingdom",
+      "aliases": [
+        "English Bulldog"
+      ],
+      "sizeClass": "medium",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 8,
+        "max": 10
+      },
+      "shortDescription": "A wrinkled, low-slung companion with a stubborn streak \u2014 sofa-minded, people-focused, and a breed whose breathing is part of the honest conversation.",
+      "description": "Bulldogs are the wide, wrinkled face on the poster, and they know it. The body is low and thick, the jaw undershot, the gait a roll. They were once athletes; the modern companion is typically a calm, stubborn roommate who would like a short walk, a cool floor, and your sandwich. Energy is low. Heat is a problem. Stairs can be a problem. They snore. They also tend to be surprisingly sweet with their people, which is why the look persists.\n\nThe short coat is easy; folds on the face need regular cleaning. Shedding is moderate. They usually get on with children and with other pets. Apartments suit them if you can keep them cool and not overweight. They are not hiking partners, and they are not a breed to leave in a parked car, ever. Training takes patience because stubborn is in the job description. Keep sessions short. Keep the waistline honest. A Bulldog with extra weight has a harder time breathing, moving, and staying comfortable.\n\nThe breed is British, descended from bull-baiting dogs and then reshaped \u2014 flattened \u2014 into the companion we know. The modern face is more extreme than those early dogs. One honest health note: as a brachycephalic breed they can struggle with airways, heat, spines, and skin folds; choose breeders who screen and who keep muzzles as functional as fashion allows. What you get is a snoring, loyal roommate who would like to share the sofa and not be asked to jog.",
+      "traits": {
+        "energy": 2,
+        "shedding": 3,
+        "trainability": 2,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 4,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/bulldog/01.jpg",
+          "alt": "Fawn and white English Bulldog sitting on pale wooden floorboards",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/bulldog/02.jpg",
+          "alt": "Close portrait of a Bulldog with a wrinkled face and undershot jaw",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-french-bulldog",
+        "dog-pug",
+        "dog-boxer"
+      ]
+    },
+    {
+      "id": "dog-cavalier-king-charles-spaniel",
+      "slug": "cavalier-king-charles-spaniel",
+      "species": "dog",
+      "name": "Cavalier King Charles Spaniel",
+      "origin": "United Kingdom",
+      "aliases": [
+        "Cavalier",
+        "Cav"
+      ],
+      "sizeClass": "small",
+      "coat": "medium",
+      "lifespanYears": {
+        "min": 9,
+        "max": 14
+      },
+      "shortDescription": "A silky toy spaniel with a melting face \u2014 gentle, people-glued, and happiest when the household includes a lap, a short walk, and real company.",
+      "description": "Cavaliers were bred to sit on laps and they still consider that the main job. The Blenheim chestnut-and-white coat is the postcard; they also come in tricolor, black-and-tan, and ruby. Large round eyes, long ears, and a gentle expression complete the picture. They are typically sweet with children and easy with other pets. Energy is moderate: a walk, a play burst, then a serious nap on the nearest knee. They do not like being left alone all day. They will tell you so, politely, then less politely.\n\nThe silky coat needs a few brushes a week to keep the ears and trousers from matting. Shedding is moderate. Apartments suit them. They are not sturdy enough to be a toddler's toy, and they are not a jogging partner. Training is usually a pleasure because they want to be with you. Watch the waistline. Watch jumping off furniture. The honest health conversation is the heart: mitral valve disease is extremely common in the breed, and syringomyelia appears too. That belongs in the decision, not the footnote.\n\nThe breed is a British toy spaniel, distinct from the smaller King Charles Spaniel, revived in the twentieth century to look more like the dogs in old paintings. They remain a companion first. One honest health note: ask about heart screening, and plan on veterinary partnership as they age. What you get is a warm, silky roommate who would like to be on you, then slightly more on you.",
+      "traits": {
+        "energy": 3,
+        "shedding": 3,
+        "trainability": 4,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 5,
+        "apartmentFriendly": 5,
+        "groomingNeed": 3
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/cavalier-king-charles-spaniel/01.jpg",
+          "alt": "Blenheim Cavalier King Charles Spaniel sitting on a linen sofa",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/cavalier-king-charles-spaniel/02.jpg",
+          "alt": "Close portrait of a Cavalier with large dark eyes and feathered ears",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-shih-tzu",
+        "dog-yorkshire-terrier",
+        "dog-boston-terrier"
+      ]
+    },
+    {
+      "id": "dog-chihuahua",
+      "slug": "chihuahua",
+      "species": "dog",
+      "name": "Chihuahua",
+      "origin": "Mexico",
+      "aliases": [
+        "Chi"
+      ],
+      "sizeClass": "small",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 14,
+        "max": 16
+      },
+      "shortDescription": "A tiny, apple-headed dog with outsized opinions \u2014 portable, people-focused, and a better fit for careful adults than for rough-and-tumble toddlers.",
+      "description": "Chihuahuas are a lot of dog in a very small suitcase. The apple head, large eyes, and erect ears are the look; the personality is often bold, clingy, and convinced that the household needs managing. Smooth coats are a wipe-down; long coats need a little more brush. They can be portable comedians or portable sirens, depending on how they are raised. Energy is moderate. They would like to be in a bag, on a lap, or announcing the mail.\n\nThey suit apartments if you can live with a voice. Shedding is usually modest. They are a poor match for young children who want a stuffed toy that moves \u2014 the dog is fragile and the dog has opinions. Other pets can work with careful intros; some Chihuahuas prefer to be the only monarch. Training still matters. A small dog who never learns manners becomes a small dog nobody wants to visit. They feel the cold. They also feel every slight, real or imagined.\n\nThe breed is Mexican, associated with the state of Chihuahua and with older small dogs of the region, later a worldwide companion. Apple heads and deer heads both exist; the apple is the show picture. One honest health note: patellas, dental crowding, and, in some, heart issues appear; keep them lean and keep those tiny teeth in the plan. What you get is a fierce, pocket-sized roommate who would like to sit on you and criticize the doorbell.",
+      "traits": {
+        "energy": 3,
+        "shedding": 2,
+        "trainability": 2,
+        "goodWithKids": 2,
+        "goodWithOtherPets": 2,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/chihuahua/01.jpg",
+          "alt": "Fawn smooth-coat Chihuahua sitting on a wooden table",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/chihuahua/02.jpg",
+          "alt": "Close portrait of a Chihuahua with large erect ears and dark eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-yorkshire-terrier",
+        "dog-pomeranian",
+        "dog-pug"
+      ]
+    },
+    {
+      "id": "dog-dachshund",
+      "slug": "dachshund",
+      "species": "dog",
+      "name": "Dachshund",
+      "origin": "Germany",
+      "aliases": [
+        "Doxie",
+        "Wiener Dog"
+      ],
+      "sizeClass": "small",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 12,
+        "max": 16
+      },
+      "shortDescription": "A long, low hound with a hunter's nose and a clown's timing \u2014 stubborn, game, and a back you protect with ramps instead of those heroic leaps.",
+      "description": "Dachshunds were built to go into a den after a badger, which explains both the shape and the personality. The long body, short legs, and bold chest are working equipment. They come in smooth, long, and wire coats; this catalog treats the smooth as the living-with-the-coat default. They are curious, often noisy, and not especially interested in being polished. Food is important. So is the smell under the shed. They can be clowns. They can also be sirens when a squirrel exists.\n\nThey can live in smaller homes if they get walks and sniff time. The short coat is easy; shedding is modest. They are typically good with older children who do not treat them as toys, and they can be bossy with other pets. The honest trade-off is the back. Intervertebral disc disease is common, so ramps beat leaping off sofas, and extra weight is unkind. Training takes patience because stubborn is in the job description. Keep recalls rewarded. Keep the waistline honest.\n\nThe breed is German, a small hound for badger and rabbit, later a popular companion in two sizes. Standard and miniature share the outline. One honest health note: protect the spine, watch for hind-end weakness, and skip the backyard wrestling. What you get is a long, opinionated roommate who would like to smell that, and that, and also whatever is in your pocket.",
+      "traits": {
+        "energy": 3,
+        "shedding": 2,
+        "trainability": 3,
+        "goodWithKids": 3,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 4,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/dachshund/01.jpg",
+          "alt": "Red smooth Dachshund sitting on a garden path, long low body visible",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/dachshund/02.jpg",
+          "alt": "Close portrait of a Dachshund with floppy ears and a long muzzle",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-beagle",
         "dog-pembroke-welsh-corgi",
-        "dog-french-bulldog"
+        "dog-chihuahua"
+      ]
+    },
+    {
+      "id": "dog-german-shorthaired-pointer",
+      "slug": "german-shorthaired-pointer",
+      "species": "dog",
+      "name": "German Shorthaired Pointer",
+      "origin": "Germany",
+      "aliases": [
+        "GSP",
+        "Pointer"
+      ],
+      "sizeClass": "large",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 10,
+        "max": 12
+      },
+      "shortDescription": "A liver-ticked athlete with a hunter's engine \u2014 built for fields, water, and a household that can actually exhaust a dog well before dinner.",
+      "description": "German Shorthaired Pointers are versatile hunting dogs who still want the whole job: run, point, retrieve, swim, repeat. The liver-and-white ticked coat, floppy ears, and lean outline are the look; the personality is go. They are affectionate with their people and often clownish at home once the battery is spent. The battery is large. A walk around the block is a joke they do not find funny. They like water. They like birds. They like you, preferably moving.\n\nThis is not an apartment dog unless you are a runner with a plan and a very honest schedule. The short coat is easy; shedding is moderate. They typically do well with children who can match the energy, and they can live with other dogs; small pets may look like game. Training is a pleasure because they want to work, and a necessity because an untrained GSP is a missile. Give them field work, dock diving, running, or long hikes, not a lonely backyard.\n\nThe breed was developed in Germany as an all-purpose gundog, blending pointing and retrieving talent in one athletic package. They remain working dogs as well as family companions. One honest health note: hips, bloat, and some cancers appear; keep them lean and learn the signs of gastric torsion. What you get is a ticking, devoted roommate who would like to go, and then go a little farther, preferably with a bird at the end.",
+      "traits": {
+        "energy": 5,
+        "shedding": 3,
+        "trainability": 5,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 1,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/german-shorthaired-pointer/01.jpg",
+          "alt": "Liver-and-white German Shorthaired Pointer sitting in a sunlit field",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/german-shorthaired-pointer/02.jpg",
+          "alt": "Close portrait of a German Shorthaired Pointer with a ticked coat",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-labrador-retriever",
+        "dog-border-collie",
+        "dog-golden-retriever"
+      ]
+    },
+    {
+      "id": "dog-great-dane",
+      "slug": "great-dane",
+      "species": "dog",
+      "name": "Great Dane",
+      "origin": "Germany",
+      "aliases": [
+        "Dane"
+      ],
+      "sizeClass": "large",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 7,
+        "max": 10
+      },
+      "shortDescription": "A gentle giant in a short coat \u2014 sofa-minded despite the height, people-focused, and a dog whose size is the first and last logistics problem.",
+      "description": "Great Danes are the size of furniture and often try to become furniture. The fawn with a black mask is the classic; harlequin, mantle, and others exist. They are typically gentle, a little goofy, and convinced that your lap is still available. Energy is moderate for the height: they need walks and space to turn around, not a marathon every morning. Puppies grow at an alarming rate. Adults knock things off tables with a tail that has its own weather system.\n\nThe short coat is easy; shedding is moderate. They can be wonderful with children who are not knocked over, and they may be reserved with strangers. Other pets work when the dog is raised with them. Apartments are a stretch because of space, not energy \u2014 hallways, cars, and sofas all have to be Dane-sized. They do not love slippery floors. Training matters because a poorly mannered giant is a liability. Keep them lean. Growing too fast on the wrong diet is unkind to joints.\n\nThe breed is German, a boar-hunting and estate dog later refined into the elegant companion we know. The name is a historical accident. One honest health note: bloat is an emergency they are famous for, and the typical lifespan is short for a dog this loved; learn gastric torsion signs and talk to your vet about risk. What you get is a towering, sweet roommate who would like to sit on the sofa you thought was yours.",
+      "traits": {
+        "energy": 3,
+        "shedding": 3,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 2,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/great-dane/01.jpg",
+          "alt": "Fawn Great Dane sitting on a green lawn, showing great height",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/great-dane/02.jpg",
+          "alt": "Close portrait of a Great Dane with a black mask and noble head",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-boxer",
+        "dog-bernese-mountain-dog",
+        "dog-german-shepherd"
+      ]
+    },
+    {
+      "id": "dog-labrador-retriever",
+      "slug": "labrador-retriever",
+      "species": "dog",
+      "name": "Labrador Retriever",
+      "origin": "Canada",
+      "aliases": [
+        "Lab"
+      ],
+      "sizeClass": "large",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 10,
+        "max": 12
+      },
+      "shortDescription": "A sturdy, otter-tailed retriever in yellow, black, or chocolate \u2014 eager, food-motivated, and happiest when the day includes a swim, a walk, and people.",
+      "description": "Labrador Retrievers are the default family dog for a reason that is both flattering and a warning: they want to be with you, they want to retrieve, and they want to eat. The short dense coat, otter tail, and kind eyes are the look. Yellow, black, and chocolate are all Labs. They are playful well into adulthood and tend to stay mouthy as puppies, which is less charming on a sleeve than on a dummy. They are typically patient with children and easy with other pets when raised with them.\n\nLiving with a Lab means daily walks, a chance to swim or retrieve, and a plan for the appetite. The coat sheds more than the word short suggests. An apartment can work for a calmer adult with enough outings, but they are large, busy dogs who prefer a yard or regular field time. Training is a pleasure because they want to cooperate; keep sessions upbeat. They will eat anything, including things that are not food, so manage the trash. Keep them lean. A fat Lab is a sad joint waiting to happen.\n\nThe breed comes from the water dogs of Newfoundland, refined in Britain as a gundog, then a service and family fixture worldwide. They remain working dogs as well as companions. One honest health note: hips, elbows, and obesity-related trouble are common; screening and a measuring cup help. What you get is a warm, slightly goofy roommate who would like to carry something for you and then nap on your feet.",
+      "traits": {
+        "energy": 4,
+        "shedding": 4,
+        "trainability": 5,
+        "goodWithKids": 5,
+        "goodWithOtherPets": 5,
+        "apartmentFriendly": 3,
+        "groomingNeed": 3
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/labrador-retriever/01.jpg",
+          "alt": "Yellow Labrador Retriever sitting on a green lawn",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/labrador-retriever/02.jpg",
+          "alt": "Close portrait of a yellow Labrador with a broad kind face",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-golden-retriever",
+        "dog-german-shorthaired-pointer",
+        "dog-poodle"
+      ]
+    },
+    {
+      "id": "dog-pomeranian",
+      "slug": "pomeranian",
+      "species": "dog",
+      "name": "Pomeranian",
+      "origin": "Germany",
+      "aliases": [
+        "Pom"
+      ],
+      "sizeClass": "small",
+      "coat": "double",
+      "lifespanYears": {
+        "min": 12,
+        "max": 16
+      },
+      "shortDescription": "A fox-faced puffball with a plumed tail \u2014 portable, vocal, and a double coat that sheds far more than the small size of the dog would suggest.",
+      "description": "Pomeranians are small dogs who did not get the memo. The fox face, erect ears, and tail curled over the back sit in a cloud of double coat, often orange, sometimes every other color. They are alert, busy, and frequently louder than the neighbors expected. Energy is moderate: indoor play, a few walks, a lot of supervising. They can be clingy. They can also be independent in a way that looks like a cat until the bark starts. They would like to be in charge of the doorbell.\n\nThe coat is the project. It sheds, it mats if ignored, and it blows. Regular brushing is not optional. They suit apartments if you can live with a voice. They are a poor match for rough toddlers \u2014 the dog is small and the dog has opinions. Other pets can work. Training still matters; a Pom who never learns manners becomes a small siren. They feel the heat in that coat. They also feel every slight. Dental care is a bigger deal than the haircut.\n\nThe breed comes from larger German spitz dogs of Pomerania, shrunk into a companion that became a Victorian favorite. One honest health note: collapsing trachea, patellas, and dental crowding appear; use a harness, keep them lean, and budget for teeth. What you get is a fluffy, opinionated roommate who would like to sit on the back of the sofa and announce the world.",
+      "traits": {
+        "energy": 3,
+        "shedding": 4,
+        "trainability": 3,
+        "goodWithKids": 2,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 5,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/pomeranian/01.jpg",
+          "alt": "Orange Pomeranian sitting on a wooden table, tail curled over the back",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/pomeranian/02.jpg",
+          "alt": "Close portrait of a Pomeranian with a fox-like face and erect ears",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-yorkshire-terrier",
+        "dog-chihuahua",
+        "dog-shih-tzu"
+      ]
+    },
+    {
+      "id": "dog-poodle",
+      "slug": "poodle",
+      "species": "dog",
+      "name": "Poodle",
+      "origin": "Germany",
+      "aliases": [
+        "Standard Poodle"
+      ],
+      "sizeClass": "large",
+      "coat": "curly",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "A curly, highly trainable retriever in a Standard-sized frame \u2014 athletic, people-focused, and a grooming calendar rather than a shed on the sofa.",
+      "description": "Poodles are retrieving dogs in a fancy coat, and the Standard is the original size this record describes. Miniature and Toy varieties exist and live a smaller life; the brain and the coat math stay related. The curly hair, long muzzle, and elegant outline are the look. They are typically bright, sensitive, and eager to work with people. They retrieve. They clown. They notice everything. A bored Standard is a project, not a decoration.\n\nThe coat barely sheds, which is why many households choose them, though no dog is a guarantee for allergies. It does grow, so clips are a regular expense or a home skill. Energy is high-moderate: they want walks, swimming, training, or a sport. They usually do well with children and with other pets when raised with them. An apartment can work for a well-exercised adult; they are large, not lap dogs. Training is a pleasure. Keep it kind \u2014 they remember unfairness.\n\nThe breed is generally traced to Germany as a water retriever, later a French favorite and a circus and companion star. The continental clip is fashion; a sporting clip is how many pet Poodles actually live. One honest health note: hips, bloat, and some eye and skin issues appear; ask about screening and keep them lean. What you get is a witty, athletic roommate who would like a job, a swim, and a person who books the groomer.",
+      "traits": {
+        "energy": 4,
+        "shedding": 1,
+        "trainability": 5,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 3,
+        "groomingNeed": 5
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/poodle/01.jpg",
+          "alt": "Apricot Standard Poodle sitting on a green lawn in a sporting clip",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/poodle/02.jpg",
+          "alt": "Close portrait of a Standard Poodle with a curly apricot coat",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-golden-retriever",
+        "dog-labrador-retriever",
+        "dog-australian-shepherd"
+      ]
+    },
+    {
+      "id": "dog-pug",
+      "slug": "pug",
+      "species": "dog",
+      "name": "Pug",
+      "origin": "China",
+      "aliases": [
+        "Chinese Pug"
+      ],
+      "sizeClass": "small",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 12,
+        "max": 15
+      },
+      "shortDescription": "A square, wrinkled companion with a curled tail \u2014 comic, clingy, and a breathing-and-heat conversation that belongs up front, not after the adoption.",
+      "description": "Pugs are portable clowns with a curled tail and a face that launched a thousand memes. The fawn coat with a black mask is the classic; black Pugs exist too. They were bred as companions, and they still want to be where the people are \u2014 on the couch, in the kitchen, occasionally in a tote they only half fit. Energy is low to moderate: a few play bursts, a neighborhood stroll, then a serious nap. They snore. They snort. They look betrayed when you leave the room.\n\nThey suit apartments and smaller homes. The short coat sheds more than people expect. Face folds need regular cleaning. They are usually good with children who treat them as dogs, not toys, and they can live with other pets. They do not tolerate heat well, and they are not hiking partners. Training works if you keep it kind and interesting. Watch the waistline. A Pug with extra weight has a harder time breathing and moving, and those prominent eyes need protecting.\n\nThe breed is Chinese in origin, a companion of courts long before it became a Western favorite. The modern face is very flat. One honest health note: as a brachycephalic breed they can struggle with heat, airways, and sometimes spines; choose breeders who screen and keep exercise gentle in warm weather. What you get is a snoring, loyal roommate who would like to share your sandwich and your pillow.",
+      "traits": {
+        "energy": 2,
+        "shedding": 3,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/pug/01.jpg",
+          "alt": "Fawn Pug sitting on pale wooden floorboards, tail curled tightly",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/pug/02.jpg",
+          "alt": "Close portrait of a Pug with a black mask and wrinkled forehead",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-french-bulldog",
+        "dog-boston-terrier",
+        "dog-bulldog"
+      ]
+    },
+    {
+      "id": "dog-rottweiler",
+      "slug": "rottweiler",
+      "species": "dog",
+      "name": "Rottweiler",
+      "origin": "Germany",
+      "aliases": [
+        "Rottie"
+      ],
+      "sizeClass": "large",
+      "coat": "short",
+      "lifespanYears": {
+        "min": 8,
+        "max": 10
+      },
+      "shortDescription": "A powerful black-and-tan working dog \u2014 confident, people-loyal, and a breed that needs training and socialization, not a backyard and a reputation.",
+      "description": "Rottweilers are substantial, self-possessed dogs who attach hard to their people. The black coat with rust markings, broad head, and calm watchfulness are the look. They were drovers and cart dogs, then police and companion dogs, and they still want a job and a leader who is actually in charge. A well-bred, well-trained Rottie is a steady partner. An under-socialized one is a problem you should not create. They are not a costume. They are a large, thinking animal.\n\nPlan on training, early socializing, and daily exercise that uses the brain. The short coat is easy; shedding is moderate. They can be wonderful with children they are raised with, and they may be reserved with strangers \u2014 which is not the same as aggressive, and also not a reason to skip manners. Other pets need careful intros. Apartments are a stretch. They need space, clear rules, and a person who enjoys working a strong dog. Keep them lean. A fat Rottweiler is a joint and heat problem.\n\nThe breed comes from the town of Rottweil in Germany, a butcher's dog that moved cattle and pulled carts. One honest health note: hips, elbows, and some cancers appear, and the typical lifespan is shorter than smaller dogs; ask about screening. What you get is a powerful, loyal roommate who would like a job, a person who means it, and not to be treated as a status symbol.",
+      "traits": {
+        "energy": 4,
+        "shedding": 3,
+        "trainability": 4,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 2,
+        "apartmentFriendly": 2,
+        "groomingNeed": 2
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/rottweiler/01.jpg",
+          "alt": "Rottweiler sitting on a green lawn, black-and-tan markings visible",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/rottweiler/02.jpg",
+          "alt": "Close portrait of a Rottweiler with a broad head and rust cheeks",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-german-shepherd",
+        "dog-boxer",
+        "dog-bernese-mountain-dog"
+      ]
+    },
+    {
+      "id": "dog-shiba-inu",
+      "slug": "shiba-inu",
+      "species": "dog",
+      "name": "Shiba Inu",
+      "origin": "Japan",
+      "aliases": [
+        "Shiba"
+      ],
+      "sizeClass": "small",
+      "coat": "double",
+      "lifespanYears": {
+        "min": 13,
+        "max": 16
+      },
+      "shortDescription": "A compact fox-like spitz with a curled tail \u2014 clean, independent, and famously unimpressed by your training plan if the squirrel is more interesting.",
+      "description": "Shiba Inus look like a tiny, serious fox and then they scream. The red sesame coat, cream undersides, triangular ears, and curled tail are the postcard. They are clean, often cat-like about their feet, and independent in a way that surprises people who wanted a Golden in a smaller box. They can be deeply loyal to their person and aloof with everyone else. The Shiba scream is real. So is the escape artistry. Fences and leashes are not suggestions.\n\nThe double coat sheds a great deal, twice a year in dramatic blows. They can live in apartments if you can live with a voice and a dog who may not love every stranger at the elevator. They are a mixed bag with children \u2014 better with respectful older kids than with toddlers. Other dogs can be a project, especially same-sex pairs. Training is possible and necessary, but they are not eager to please. Recall in an open field is a hobby, not a promise. Keep them lean. Keep them busy enough that the apartment survives.\n\nThe breed is a Japanese hunting spitz, the smallest of the native dogs, later a national treasure and a worldwide companion. One honest health note: allergies, patellas, and some eye issues appear; ask about screening. What you get is a clean, fox-faced roommate who would like to be consulted, not commanded, and then to sit in the sun like a statue that might bolt.",
+      "traits": {
+        "energy": 4,
+        "shedding": 4,
+        "trainability": 2,
+        "goodWithKids": 3,
+        "goodWithOtherPets": 2,
+        "apartmentFriendly": 4,
+        "groomingNeed": 3
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/shiba-inu/01.jpg",
+          "alt": "Red Shiba Inu sitting on a gravel garden path, tail curled over the back",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/shiba-inu/02.jpg",
+          "alt": "Close portrait of a Shiba Inu with a fox-like face and triangular ears",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-siberian-husky",
+        "dog-pomeranian",
+        "dog-pembroke-welsh-corgi"
+      ]
+    },
+    {
+      "id": "dog-shih-tzu",
+      "slug": "shih-tzu",
+      "species": "dog",
+      "name": "Shih Tzu",
+      "origin": "China",
+      "aliases": [
+        "Chrysanthemum Dog"
+      ],
+      "sizeClass": "small",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 10,
+        "max": 16
+      },
+      "shortDescription": "A small, flowing companion with a chrysanthemum face \u2014 sofa-minded, people-focused, and a full grooming calendar in a compact, friendly package.",
+      "description": "Shih Tzus were bred to be palace companions, and they still consider the sofa a reasonable palace. The long flowing coat, round dark eyes, and short muzzle make a chrysanthemum of a face. Gold-and-white is a common picture; many colors exist. They are typically affectionate, a little stubborn, and happiest when the household includes people. Energy is low to moderate: a short walk, a play burst, then a serious nap. They are not jogging partners. They are excellent at occupying a cushion.\n\nThe coat is the deal. Daily brushing, or a short pet clip, keeps mats from winning. Shedding is low compared with a double-coated spitz, which is why some households choose them, though no dog is a guarantee for allergies. They suit apartments. They are usually good with children who are gentle and with other pets. The short face can make heat and airways a problem; keep exercise gentle in warm weather. Training works if you keep it kind. Watch the waistline. Watch those eyes around rough play.\n\nThe breed is Chinese, a longhaired companion associated with imperial courts, later a worldwide toy favorite. One honest health note: brachycephaly, dental crowding, and some eye issues appear; keep the face clean and the vet in the loop. What you get is a silky, outgoing roommate who would like to be brushed, carried a little, and included in the evening.",
+      "traits": {
+        "energy": 2,
+        "shedding": 2,
+        "trainability": 3,
+        "goodWithKids": 4,
+        "goodWithOtherPets": 4,
+        "apartmentFriendly": 5,
+        "groomingNeed": 5
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/shih-tzu/01.jpg",
+          "alt": "Gold-and-white Shih Tzu sitting on a linen sofa",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/shih-tzu/02.jpg",
+          "alt": "Close portrait of a Shih Tzu with a chrysanthemum face and dark eyes",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-yorkshire-terrier",
+        "dog-cavalier-king-charles-spaniel",
+        "dog-pomeranian"
+      ]
+    },
+    {
+      "id": "dog-yorkshire-terrier",
+      "slug": "yorkshire-terrier",
+      "species": "dog",
+      "name": "Yorkshire Terrier",
+      "origin": "United Kingdom",
+      "aliases": [
+        "Yorkie"
+      ],
+      "sizeClass": "small",
+      "coat": "long",
+      "lifespanYears": {
+        "min": 13,
+        "max": 16
+      },
+      "shortDescription": "A tiny, steel-and-tan terrier in a floor-length coat \u2014 bold, portable, and a better watchdog than the size of the dog would have you expect.",
+      "description": "Yorkshire Terriers are terriers first and handbags second. The long silky coat, steel blue and tan, is the show picture; many pets live in a shorter clip. They are bold, busy, and often louder than the neighbors expected. Energy is moderate: indoor play, a few walks, a lot of supervising. They can be clingy. They can also be independent in a way that looks like a cat until a leaf moves. They would like to be in charge of the hallway.\n\nThe coat barely sheds, which is why some households choose them, though no dog is a guarantee for allergies. It does tangle, so daily brushing or a puppy cut is the deal. They suit apartments if you can live with a voice. They are a poor match for rough toddlers \u2014 the dog is fragile and the dog has opinions. Other pets can work. Training still matters. A Yorkie who never learns manners becomes a small siren. They feel the cold. Dental care is a bigger deal than the haircut.\n\nThe breed was developed in Yorkshire from small ratting terriers, then became a Victorian companion with a coat that needs more work than a rat ever did. One honest health note: collapsing trachea, patellas, and dental crowding appear; use a harness, keep them lean, and budget for teeth. What you get is a glamorous, opinionated roommate who would like to sit on the back of the sofa and announce the world.",
+      "traits": {
+        "energy": 3,
+        "shedding": 1,
+        "trainability": 3,
+        "goodWithKids": 2,
+        "goodWithOtherPets": 3,
+        "apartmentFriendly": 5,
+        "groomingNeed": 4
+      },
+      "photos": [
+        {
+          "src": "/images/breeds/yorkshire-terrier/01.jpg",
+          "alt": "Yorkshire Terrier sitting on a wooden table, long steel-blue and tan coat",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        },
+        {
+          "src": "/images/breeds/yorkshire-terrier/02.jpg",
+          "alt": "Close portrait of a Yorkshire Terrier with dark eyes and a silky tan face",
+          "width": 1600,
+          "height": 1200,
+          "credit": "Cat & Dog Repo",
+          "license": "licensed"
+        }
+      ],
+      "similarBreedIds": [
+        "dog-shih-tzu",
+        "dog-chihuahua",
+        "dog-pomeranian"
       ]
     }
   ]

@@ -64,7 +64,7 @@ export function PhotoGallery({ photos }: { photos: BreedPhoto[] }) {
   return (
     <div className="photo-gallery">
       <div
-        className="-mx-4 flex snap-x snap-mandatory overflow-x-auto sm:-mx-6 lg:mx-0 lg:rounded-2xl [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+        className="-mx-4 flex snap-x snap-mandatory overflow-x-auto sm:-mx-6 lg:mx-0 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
         role="region"
         aria-label="Breed photos"
       >
@@ -74,7 +74,7 @@ export function PhotoGallery({ photos }: { photos: BreedPhoto[] }) {
             id={`breed-photo-${i + 1}`}
             className="photo-slide w-full shrink-0 snap-center snap-always"
           >
-            <div className="relative aspect-[4/3] bg-cream">
+            <div className="relative aspect-[4/3] overflow-hidden bg-cream lg:rounded-2xl">
               <Image
                 src={photo.src}
                 alt={photo.alt}

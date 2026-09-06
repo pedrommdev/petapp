@@ -6,10 +6,7 @@ export default function NotFound() {
     <>
       <AppHeader />
       <main className="flex min-h-[60vh] flex-col items-start justify-center py-16">
-        <p className="text-sm font-bold tracking-wide text-accent uppercase">
-          404
-        </p>
-        <h1 className="mt-3 font-display text-[32px] leading-tight font-semibold md:text-5xl">
+        <h1 className="font-display text-[32px] leading-tight font-semibold md:text-5xl">
           This breed ran off.
         </h1>
         <p className="mt-3 max-w-md text-muted">
